@@ -1,0 +1,27 @@
+.container{
+   max-width: 500px;
+   margin: 50px auto;
+   background: #f7f7f7;
+   border-radius: 10px;
+   box-shadow: 0 0 10px  #0000002b;
+   padding: 15px;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+form div{
+    margin-top: 10px;
+}
+
+.btn-primary{
+    margin: 10px;
+}
+
+p{
+    display: inline-block;
+   
+}
